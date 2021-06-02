@@ -1,6 +1,8 @@
 Summary
 --
-[![trophy](https://github-profile-trophy.vercel.app/?username=EXT5RCH&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=EXT5RCH&column=8&theme=dracula"/>
+</a>
 
 <!--
 **EXT5RCH/EXT5RCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
