@@ -1,7 +1,22 @@
-Summary
---
+# EXT5RCH
+
+## Github Profile Trophy
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=EXT5RCH&column=8&theme=dracula"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=EXT5RCH&column=8&theme=radical"/>
+</a>
+
+## Github Readme Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=495 src="https://github-readme-stats.vercel.app/api?username=EXT5RCH&show_icons=true&theme=radical"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXT5RCH&layout=compact&theme=radical"/>
+</a>
+
+## Github Readme Streak Stats
+<a href="https://git.io/streak-stats">
+  <img width=495 src="https://github-readme-streak-stats.herokuapp.com/?user=EXT5RCH&theme=radical"/>
 </a>
 
 <!--
